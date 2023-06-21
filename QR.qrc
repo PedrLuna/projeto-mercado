@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="Foto 1 ">
+    <file>fotos/TT.jpg</file>
+  </qresource>
+  <qresource prefix="df">
+    <file>fotos/mm.png</file>
+  </qresource>
+</RCC>
